@@ -138,17 +138,3 @@ class TestBurger:
         WebDriverWait(driver, 5).until(EC.element_to_be_clickable(L.SAUCES_BUTTON)).click()
         sauces = driver.find_element(*L.SAUCES_HEADER)
         assert sauces.is_displayed()
-
-
-
-
-
-
-
-
-
-
-
-
-
-

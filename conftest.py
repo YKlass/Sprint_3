@@ -38,7 +38,3 @@ def logged_in_driver(driver, valid_credentials):
     time.sleep(1)
     driver.find_element(*L.LOGIN_BUTTON).click()
     return driver
-
-# driver.get("https://stellarburgers.nomoreparties.site/")
-
-
