@@ -1,0 +1,1 @@
+Тестирование сайта [STELLAR BURGERS](https://stellarburgers.nomoreparties.site)
